@@ -7,6 +7,13 @@
 # Install Composer
 brew install composer
 
+# Install and start Dnsmasq
+brew install dnsmasq
+sudo brew services start dnsmasq
+
+# Install yq
+brew install yq
+
 # Install Hyper Terminal
 brew install --cask hyper
 
