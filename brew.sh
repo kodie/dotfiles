@@ -14,6 +14,9 @@ sudo brew services start dnsmasq
 # Install yq
 brew install yq
 
+# Install Alfred
+brew install --cask alfred
+
 # Install Hyper Terminal
 brew install --cask hyper
 
