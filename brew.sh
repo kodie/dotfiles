@@ -41,5 +41,8 @@ brew install --cask firefox
 # Install CyberDuck
 brew install --cask cyberduck
 
+# Install Postman
+brew install --cask postman
+
 # Install Adobe Creative Cloud
 brew install --cask adobe-creative-cloud
