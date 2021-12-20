@@ -47,5 +47,8 @@ brew install --cask postman
 # Install ngrok
 brew install --cask ngrok
 
+# Install Robo 3T
+brew install --cask robo-3t
+
 # Install Adobe Creative Cloud
 brew install --cask adobe-creative-cloud
