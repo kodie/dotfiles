@@ -44,5 +44,8 @@ brew install --cask cyberduck
 # Install Postman
 brew install --cask postman
 
+# Install ngrok
+brew install --cask ngrok
+
 # Install Adobe Creative Cloud
 brew install --cask adobe-creative-cloud
