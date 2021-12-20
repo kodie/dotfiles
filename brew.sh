@@ -50,5 +50,8 @@ brew install --cask ngrok
 # Install Robo 3T
 brew install --cask robo-3t
 
+# Install Sequel Pro
+brew install --cask sequel-pro
+
 # Install Adobe Creative Cloud
 brew install --cask adobe-creative-cloud
