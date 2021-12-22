@@ -14,6 +14,9 @@ sudo brew services start dnsmasq
 # Install yq
 brew install yq
 
+# Install Watchman
+brew install watchman
+
 # Install Alfred
 brew install --cask alfred
 
