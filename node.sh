@@ -10,5 +10,6 @@ export NVM_DIR="$HOME/.nvm"
 
 # Install Node
 nvm install 8.9.0
+nvm install 12.22.8
 nvm install 16.13.0
 nvm alias default 16.13.0
