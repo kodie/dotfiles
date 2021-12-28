@@ -56,5 +56,8 @@ brew install --cask robo-3t
 # Install Sequel Pro
 brew install --cask sequel-pro
 
+# Install Android Studio
+brew install --cask android-studio
+
 # Install Adobe Creative Cloud
 brew install --cask adobe-creative-cloud
