@@ -14,6 +14,9 @@ sudo brew services start dnsmasq
 # Install yq
 brew install yq
 
+# Install Java
+brew install java
+
 # Install Watchman
 brew install watchman
 
