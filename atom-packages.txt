@@ -1,4 +1,0 @@
-file-icons
-language-swift-89
-minimap
-svg-preview

@@ -17,6 +17,9 @@ brew install yq
 # Install Java
 brew install java
 
+# Install Mozilla SOPS
+brew install sops
+
 # Install Watchman
 brew install watchman
 
@@ -29,14 +32,14 @@ brew install --cask hyper
 # Install Lando
 brew install --cask lando
 
-# Install Atom
-brew install --cask atom
+# Install Visual Studio Code
+brew install --cask visual-studio-code
 
 # Install Spotify
 brew install --cask spotify
 
-# Install Ferdi
-brew install --cask ferdi
+# Install Slack
+brew install --cask slack
 
 # Install Google Chrome
 brew install --cask google-chrome
